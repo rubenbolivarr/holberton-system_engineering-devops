@@ -1,2 +1,2 @@
 #!/bin/bas
-usermod -l betty old-name 
+usermod -u UID betty 
